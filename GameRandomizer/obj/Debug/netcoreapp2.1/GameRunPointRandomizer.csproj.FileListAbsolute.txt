@@ -1,0 +1,12 @@
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\bin\Debug\netcoreapp2.1\GameRunPointRandomizer.deps.json
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\bin\Debug\netcoreapp2.1\GameRunPointRandomizer.runtimeconfig.json
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\bin\Debug\netcoreapp2.1\GameRunPointRandomizer.runtimeconfig.dev.json
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\bin\Debug\netcoreapp2.1\GameRunPointRandomizer.dll
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\bin\Debug\netcoreapp2.1\GameRunPointRandomizer.pdb
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\obj\Debug\netcoreapp2.1\GameRunPointRandomizer.csprojAssemblyReference.cache
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\obj\Debug\netcoreapp2.1\GameRunPointRandomizer.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\obj\Debug\netcoreapp2.1\GameRunPointRandomizer.AssemblyInfo.cs
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\obj\Debug\netcoreapp2.1\GameRunPointRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\obj\Debug\netcoreapp2.1\GameRunPointRandomizer.dll
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\obj\Debug\netcoreapp2.1\GameRunPointRandomizer.pdb
+C:\Users\Philip\source\repos\GameRandomizer\GameRandomizer\obj\Debug\netcoreapp2.1\GameRunPointRandomizer.genruntimeconfig.cache

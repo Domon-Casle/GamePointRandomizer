@@ -1,0 +1,10 @@
+C:\Users\Philip\source\repos\HadesGameRandomizer\HadesGameRandomizer\bin\Release\netcoreapp2.1\HadesGameRandomizer.deps.json
+C:\Users\Philip\source\repos\HadesGameRandomizer\HadesGameRandomizer\bin\Release\netcoreapp2.1\HadesGameRandomizer.runtimeconfig.json
+C:\Users\Philip\source\repos\HadesGameRandomizer\HadesGameRandomizer\bin\Release\netcoreapp2.1\HadesGameRandomizer.runtimeconfig.dev.json
+C:\Users\Philip\source\repos\HadesGameRandomizer\HadesGameRandomizer\bin\Release\netcoreapp2.1\HadesGameRandomizer.dll
+C:\Users\Philip\source\repos\HadesGameRandomizer\HadesGameRandomizer\bin\Release\netcoreapp2.1\HadesGameRandomizer.pdb
+C:\Users\Philip\source\repos\HadesGameRandomizer\HadesGameRandomizer\obj\Release\netcoreapp2.1\HadesGameRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\Philip\source\repos\HadesGameRandomizer\HadesGameRandomizer\obj\Release\netcoreapp2.1\HadesGameRandomizer.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\HadesGameRandomizer\HadesGameRandomizer\obj\Release\netcoreapp2.1\HadesGameRandomizer.AssemblyInfo.cs
+C:\Users\Philip\source\repos\HadesGameRandomizer\HadesGameRandomizer\obj\Release\netcoreapp2.1\HadesGameRandomizer.dll
+C:\Users\Philip\source\repos\HadesGameRandomizer\HadesGameRandomizer\obj\Release\netcoreapp2.1\HadesGameRandomizer.pdb
